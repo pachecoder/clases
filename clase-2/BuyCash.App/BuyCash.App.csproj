@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Users\Jorge\source\repos\InvoiceApp\InvoiceApp\InvoiceApp.csproj" />
+    <ProjectReference Include="..\InvoiceApp\InvoiceApp\InvoiceApp.csproj" />
   </ItemGroup>
 
 </Project>
